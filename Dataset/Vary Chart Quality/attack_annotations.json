@@ -1,0 +1,4482 @@
+[
+    {
+        "image": "6.png",
+        "level": "complex",
+        "table": "6.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 6,
+        "source": "ChartQA",
+        "changed_image": "6.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "6.png",
+        "level": "complex",
+        "table": "6.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 6,
+        "source": "ChartQA",
+        "changed_image": "6_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "6.png",
+        "level": "complex",
+        "table": "6.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 6,
+        "source": "ChartQA",
+        "changed_image": "6_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "6.png",
+        "level": "complex",
+        "table": "6.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 6,
+        "source": "ChartQA",
+        "changed_image": "6_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "6.png",
+        "level": "complex",
+        "table": "6.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 6,
+        "source": "ChartQA",
+        "changed_image": "6_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "6.png",
+        "level": "complex",
+        "table": "6.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 6,
+        "source": "ChartQA",
+        "changed_image": "6_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "6.png",
+        "level": "complex",
+        "table": "6.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 6,
+        "source": "ChartQA",
+        "changed_image": "6_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "9.png",
+        "level": "complex",
+        "table": "9.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 9,
+        "source": "ChartQA",
+        "changed_image": "9.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "9.png",
+        "level": "complex",
+        "table": "9.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 9,
+        "source": "ChartQA",
+        "changed_image": "9_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "9.png",
+        "level": "complex",
+        "table": "9.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 9,
+        "source": "ChartQA",
+        "changed_image": "9_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "9.png",
+        "level": "complex",
+        "table": "9.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 9,
+        "source": "ChartQA",
+        "changed_image": "9_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "9.png",
+        "level": "complex",
+        "table": "9.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 9,
+        "source": "ChartQA",
+        "changed_image": "9_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "9.png",
+        "level": "complex",
+        "table": "9.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 9,
+        "source": "ChartQA",
+        "changed_image": "9_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "9.png",
+        "level": "complex",
+        "table": "9.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 9,
+        "source": "ChartQA",
+        "changed_image": "9_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "19.png",
+        "level": "complex",
+        "table": "19.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 19,
+        "source": "ChartQA",
+        "changed_image": "19.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "19.png",
+        "level": "complex",
+        "table": "19.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 19,
+        "source": "ChartQA",
+        "changed_image": "19_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "19.png",
+        "level": "complex",
+        "table": "19.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 19,
+        "source": "ChartQA",
+        "changed_image": "19_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "19.png",
+        "level": "complex",
+        "table": "19.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 19,
+        "source": "ChartQA",
+        "changed_image": "19_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "19.png",
+        "level": "complex",
+        "table": "19.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 19,
+        "source": "ChartQA",
+        "changed_image": "19_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "19.png",
+        "level": "complex",
+        "table": "19.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 19,
+        "source": "ChartQA",
+        "changed_image": "19_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "19.png",
+        "level": "complex",
+        "table": "19.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 19,
+        "source": "ChartQA",
+        "changed_image": "19_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "25.png",
+        "level": "complex",
+        "table": "25.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 25,
+        "source": "ChartQA",
+        "changed_image": "25.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "25.png",
+        "level": "complex",
+        "table": "25.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 25,
+        "source": "ChartQA",
+        "changed_image": "25_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "25.png",
+        "level": "complex",
+        "table": "25.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 25,
+        "source": "ChartQA",
+        "changed_image": "25_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "25.png",
+        "level": "complex",
+        "table": "25.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 25,
+        "source": "ChartQA",
+        "changed_image": "25_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "25.png",
+        "level": "complex",
+        "table": "25.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 25,
+        "source": "ChartQA",
+        "changed_image": "25_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "25.png",
+        "level": "complex",
+        "table": "25.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 25,
+        "source": "ChartQA",
+        "changed_image": "25_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "25.png",
+        "level": "complex",
+        "table": "25.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 25,
+        "source": "ChartQA",
+        "changed_image": "25_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "26.png",
+        "level": "complex",
+        "table": "26.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 26,
+        "source": "ChartQA",
+        "changed_image": "26.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "26.png",
+        "level": "complex",
+        "table": "26.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 26,
+        "source": "ChartQA",
+        "changed_image": "26_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "26.png",
+        "level": "complex",
+        "table": "26.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 26,
+        "source": "ChartQA",
+        "changed_image": "26_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "26.png",
+        "level": "complex",
+        "table": "26.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 26,
+        "source": "ChartQA",
+        "changed_image": "26_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "26.png",
+        "level": "complex",
+        "table": "26.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 26,
+        "source": "ChartQA",
+        "changed_image": "26_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "26.png",
+        "level": "complex",
+        "table": "26.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 26,
+        "source": "ChartQA",
+        "changed_image": "26_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "26.png",
+        "level": "complex",
+        "table": "26.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 26,
+        "source": "ChartQA",
+        "changed_image": "26_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "68.png",
+        "level": "complex",
+        "table": "68.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 68,
+        "source": "ChartQA",
+        "changed_image": "68.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "68.png",
+        "level": "complex",
+        "table": "68.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 68,
+        "source": "ChartQA",
+        "changed_image": "68_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "68.png",
+        "level": "complex",
+        "table": "68.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 68,
+        "source": "ChartQA",
+        "changed_image": "68_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "68.png",
+        "level": "complex",
+        "table": "68.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 68,
+        "source": "ChartQA",
+        "changed_image": "68_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "68.png",
+        "level": "complex",
+        "table": "68.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 68,
+        "source": "ChartQA",
+        "changed_image": "68_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "68.png",
+        "level": "complex",
+        "table": "68.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 68,
+        "source": "ChartQA",
+        "changed_image": "68_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "68.png",
+        "level": "complex",
+        "table": "68.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 68,
+        "source": "ChartQA",
+        "changed_image": "68_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "265.png",
+        "level": "complex",
+        "table": "265.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 265,
+        "source": "ChartQA",
+        "changed_image": "265.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "265.png",
+        "level": "complex",
+        "table": "265.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 265,
+        "source": "ChartQA",
+        "changed_image": "265_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "265.png",
+        "level": "complex",
+        "table": "265.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 265,
+        "source": "ChartQA",
+        "changed_image": "265_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "265.png",
+        "level": "complex",
+        "table": "265.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 265,
+        "source": "ChartQA",
+        "changed_image": "265_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "265.png",
+        "level": "complex",
+        "table": "265.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 265,
+        "source": "ChartQA",
+        "changed_image": "265_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "265.png",
+        "level": "complex",
+        "table": "265.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 265,
+        "source": "ChartQA",
+        "changed_image": "265_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "265.png",
+        "level": "complex",
+        "table": "265.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 265,
+        "source": "ChartQA",
+        "changed_image": "265_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "266.png",
+        "level": "complex",
+        "table": "266.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 266,
+        "source": "ChartQA",
+        "changed_image": "266.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "266.png",
+        "level": "complex",
+        "table": "266.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 266,
+        "source": "ChartQA",
+        "changed_image": "266_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "266.png",
+        "level": "complex",
+        "table": "266.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 266,
+        "source": "ChartQA",
+        "changed_image": "266_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "266.png",
+        "level": "complex",
+        "table": "266.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 266,
+        "source": "ChartQA",
+        "changed_image": "266_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "266.png",
+        "level": "complex",
+        "table": "266.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 266,
+        "source": "ChartQA",
+        "changed_image": "266_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "266.png",
+        "level": "complex",
+        "table": "266.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 266,
+        "source": "ChartQA",
+        "changed_image": "266_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "266.png",
+        "level": "complex",
+        "table": "266.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 266,
+        "source": "ChartQA",
+        "changed_image": "266_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "328.png",
+        "level": "complex",
+        "table": "328.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 328,
+        "source": "ChartQA",
+        "changed_image": "328.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "328.png",
+        "level": "complex",
+        "table": "328.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 328,
+        "source": "ChartQA",
+        "changed_image": "328_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "328.png",
+        "level": "complex",
+        "table": "328.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 328,
+        "source": "ChartQA",
+        "changed_image": "328_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "328.png",
+        "level": "complex",
+        "table": "328.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 328,
+        "source": "ChartQA",
+        "changed_image": "328_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "328.png",
+        "level": "complex",
+        "table": "328.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 328,
+        "source": "ChartQA",
+        "changed_image": "328_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "328.png",
+        "level": "complex",
+        "table": "328.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 328,
+        "source": "ChartQA",
+        "changed_image": "328_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "328.png",
+        "level": "complex",
+        "table": "328.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 328,
+        "source": "ChartQA",
+        "changed_image": "328_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "486.png",
+        "level": "complex",
+        "table": "486.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 486,
+        "source": "ChartQA",
+        "changed_image": "486.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "486.png",
+        "level": "complex",
+        "table": "486.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 486,
+        "source": "ChartQA",
+        "changed_image": "486_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "486.png",
+        "level": "complex",
+        "table": "486.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 486,
+        "source": "ChartQA",
+        "changed_image": "486_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "486.png",
+        "level": "complex",
+        "table": "486.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 486,
+        "source": "ChartQA",
+        "changed_image": "486_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "486.png",
+        "level": "complex",
+        "table": "486.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 486,
+        "source": "ChartQA",
+        "changed_image": "486_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "486.png",
+        "level": "complex",
+        "table": "486.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 486,
+        "source": "ChartQA",
+        "changed_image": "486_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "486.png",
+        "level": "complex",
+        "table": "486.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 486,
+        "source": "ChartQA",
+        "changed_image": "486_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "542.png",
+        "level": "complex",
+        "table": "542.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 542,
+        "source": "ChartQA",
+        "changed_image": "542.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "542.png",
+        "level": "complex",
+        "table": "542.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 542,
+        "source": "ChartQA",
+        "changed_image": "542_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "542.png",
+        "level": "complex",
+        "table": "542.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 542,
+        "source": "ChartQA",
+        "changed_image": "542_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "542.png",
+        "level": "complex",
+        "table": "542.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 542,
+        "source": "ChartQA",
+        "changed_image": "542_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "542.png",
+        "level": "complex",
+        "table": "542.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 542,
+        "source": "ChartQA",
+        "changed_image": "542_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "542.png",
+        "level": "complex",
+        "table": "542.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 542,
+        "source": "ChartQA",
+        "changed_image": "542_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "542.png",
+        "level": "complex",
+        "table": "542.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 542,
+        "source": "ChartQA",
+        "changed_image": "542_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "573.png",
+        "level": "complex",
+        "table": "573.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 573,
+        "source": "ChartQA",
+        "changed_image": "573.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "573.png",
+        "level": "complex",
+        "table": "573.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 573,
+        "source": "ChartQA",
+        "changed_image": "573_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "573.png",
+        "level": "complex",
+        "table": "573.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 573,
+        "source": "ChartQA",
+        "changed_image": "573_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "573.png",
+        "level": "complex",
+        "table": "573.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 573,
+        "source": "ChartQA",
+        "changed_image": "573_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "573.png",
+        "level": "complex",
+        "table": "573.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 573,
+        "source": "ChartQA",
+        "changed_image": "573_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "573.png",
+        "level": "complex",
+        "table": "573.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 573,
+        "source": "ChartQA",
+        "changed_image": "573_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "573.png",
+        "level": "complex",
+        "table": "573.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 573,
+        "source": "ChartQA",
+        "changed_image": "573_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "703.png",
+        "level": "complex",
+        "table": "703.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 703,
+        "source": "ChartQA",
+        "changed_image": "703.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "703.png",
+        "level": "complex",
+        "table": "703.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 703,
+        "source": "ChartQA",
+        "changed_image": "703_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "703.png",
+        "level": "complex",
+        "table": "703.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 703,
+        "source": "ChartQA",
+        "changed_image": "703_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "703.png",
+        "level": "complex",
+        "table": "703.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 703,
+        "source": "ChartQA",
+        "changed_image": "703_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "703.png",
+        "level": "complex",
+        "table": "703.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 703,
+        "source": "ChartQA",
+        "changed_image": "703_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "703.png",
+        "level": "complex",
+        "table": "703.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 703,
+        "source": "ChartQA",
+        "changed_image": "703_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "703.png",
+        "level": "complex",
+        "table": "703.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "complex line",
+        "id": 703,
+        "source": "ChartQA",
+        "changed_image": "703_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "789.png",
+        "level": "complex",
+        "table": "789.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 789,
+        "source": "ChartQA",
+        "changed_image": "789.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "789.png",
+        "level": "complex",
+        "table": "789.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 789,
+        "source": "ChartQA",
+        "changed_image": "789_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "789.png",
+        "level": "complex",
+        "table": "789.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 789,
+        "source": "ChartQA",
+        "changed_image": "789_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "789.png",
+        "level": "complex",
+        "table": "789.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 789,
+        "source": "ChartQA",
+        "changed_image": "789_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "789.png",
+        "level": "complex",
+        "table": "789.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 789,
+        "source": "ChartQA",
+        "changed_image": "789_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "789.png",
+        "level": "complex",
+        "table": "789.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 789,
+        "source": "ChartQA",
+        "changed_image": "789_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "789.png",
+        "level": "complex",
+        "table": "789.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 789,
+        "source": "ChartQA",
+        "changed_image": "789_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "853.png",
+        "level": "complex",
+        "table": "853.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 853,
+        "source": "ChartQA",
+        "changed_image": "853.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "853.png",
+        "level": "complex",
+        "table": "853.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 853,
+        "source": "ChartQA",
+        "changed_image": "853_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "853.png",
+        "level": "complex",
+        "table": "853.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 853,
+        "source": "ChartQA",
+        "changed_image": "853_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "853.png",
+        "level": "complex",
+        "table": "853.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 853,
+        "source": "ChartQA",
+        "changed_image": "853_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "853.png",
+        "level": "complex",
+        "table": "853.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 853,
+        "source": "ChartQA",
+        "changed_image": "853_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "853.png",
+        "level": "complex",
+        "table": "853.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 853,
+        "source": "ChartQA",
+        "changed_image": "853_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "853.png",
+        "level": "complex",
+        "table": "853.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "visual prompt": "[]",
+        "type": "complex bar",
+        "id": 853,
+        "source": "ChartQA",
+        "changed_image": "853_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1098.png",
+        "level": "easy",
+        "table": "1098.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1098,
+        "source": "nvBench",
+        "changed_image": "1098.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1098.png",
+        "level": "easy",
+        "table": "1098.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1098,
+        "source": "nvBench",
+        "changed_image": "1098_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1098.png",
+        "level": "easy",
+        "table": "1098.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1098,
+        "source": "nvBench",
+        "changed_image": "1098_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1098.png",
+        "level": "easy",
+        "table": "1098.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1098,
+        "source": "nvBench",
+        "changed_image": "1098_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1098.png",
+        "level": "easy",
+        "table": "1098.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1098,
+        "source": "nvBench",
+        "changed_image": "1098_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1098.png",
+        "level": "easy",
+        "table": "1098.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1098,
+        "source": "nvBench",
+        "changed_image": "1098_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1098.png",
+        "level": "easy",
+        "table": "1098.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1098,
+        "source": "nvBench",
+        "changed_image": "1098_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1114.png",
+        "level": "easy",
+        "table": "1114.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1114,
+        "source": "nvBench",
+        "changed_image": "1114.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1114.png",
+        "level": "easy",
+        "table": "1114.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1114,
+        "source": "nvBench",
+        "changed_image": "1114_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1114.png",
+        "level": "easy",
+        "table": "1114.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1114,
+        "source": "nvBench",
+        "changed_image": "1114_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1114.png",
+        "level": "easy",
+        "table": "1114.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1114,
+        "source": "nvBench",
+        "changed_image": "1114_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1114.png",
+        "level": "easy",
+        "table": "1114.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1114,
+        "source": "nvBench",
+        "changed_image": "1114_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1114.png",
+        "level": "easy",
+        "table": "1114.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1114,
+        "source": "nvBench",
+        "changed_image": "1114_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1114.png",
+        "level": "easy",
+        "table": "1114.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1114,
+        "source": "nvBench",
+        "changed_image": "1114_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1156.png",
+        "level": "easy",
+        "table": "1156.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1156,
+        "source": "nvBench",
+        "changed_image": "1156.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1156.png",
+        "level": "easy",
+        "table": "1156.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1156,
+        "source": "nvBench",
+        "changed_image": "1156_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1156.png",
+        "level": "easy",
+        "table": "1156.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1156,
+        "source": "nvBench",
+        "changed_image": "1156_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1156.png",
+        "level": "easy",
+        "table": "1156.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1156,
+        "source": "nvBench",
+        "changed_image": "1156_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1156.png",
+        "level": "easy",
+        "table": "1156.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1156,
+        "source": "nvBench",
+        "changed_image": "1156_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1156.png",
+        "level": "easy",
+        "table": "1156.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1156,
+        "source": "nvBench",
+        "changed_image": "1156_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1156.png",
+        "level": "easy",
+        "table": "1156.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1156,
+        "source": "nvBench",
+        "changed_image": "1156_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1208.png",
+        "level": "easy",
+        "table": "1208.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1208,
+        "source": "nvBench",
+        "changed_image": "1208.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1208.png",
+        "level": "easy",
+        "table": "1208.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1208,
+        "source": "nvBench",
+        "changed_image": "1208_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1208.png",
+        "level": "easy",
+        "table": "1208.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1208,
+        "source": "nvBench",
+        "changed_image": "1208_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1208.png",
+        "level": "easy",
+        "table": "1208.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1208,
+        "source": "nvBench",
+        "changed_image": "1208_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1208.png",
+        "level": "easy",
+        "table": "1208.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1208,
+        "source": "nvBench",
+        "changed_image": "1208_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1208.png",
+        "level": "easy",
+        "table": "1208.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1208,
+        "source": "nvBench",
+        "changed_image": "1208_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1208.png",
+        "level": "easy",
+        "table": "1208.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1208,
+        "source": "nvBench",
+        "changed_image": "1208_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1255.png",
+        "level": "easy",
+        "table": "1255.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1255,
+        "source": "nvBench",
+        "changed_image": "1255.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1255.png",
+        "level": "easy",
+        "table": "1255.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1255,
+        "source": "nvBench",
+        "changed_image": "1255_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1255.png",
+        "level": "easy",
+        "table": "1255.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1255,
+        "source": "nvBench",
+        "changed_image": "1255_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1255.png",
+        "level": "easy",
+        "table": "1255.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1255,
+        "source": "nvBench",
+        "changed_image": "1255_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1255.png",
+        "level": "easy",
+        "table": "1255.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1255,
+        "source": "nvBench",
+        "changed_image": "1255_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1255.png",
+        "level": "easy",
+        "table": "1255.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1255,
+        "source": "nvBench",
+        "changed_image": "1255_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1255.png",
+        "level": "easy",
+        "table": "1255.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "common bar",
+        "id": 1255,
+        "source": "nvBench",
+        "changed_image": "1255_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1468.png",
+        "level": "easy",
+        "table": "1468.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1468,
+        "source": "nvBench",
+        "changed_image": "1468.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1468.png",
+        "level": "easy",
+        "table": "1468.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1468,
+        "source": "nvBench",
+        "changed_image": "1468_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1468.png",
+        "level": "easy",
+        "table": "1468.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1468,
+        "source": "nvBench",
+        "changed_image": "1468_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1468.png",
+        "level": "easy",
+        "table": "1468.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1468,
+        "source": "nvBench",
+        "changed_image": "1468_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1468.png",
+        "level": "easy",
+        "table": "1468.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1468,
+        "source": "nvBench",
+        "changed_image": "1468_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1468.png",
+        "level": "easy",
+        "table": "1468.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1468,
+        "source": "nvBench",
+        "changed_image": "1468_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1468.png",
+        "level": "easy",
+        "table": "1468.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1468,
+        "source": "nvBench",
+        "changed_image": "1468_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1475.png",
+        "level": "easy",
+        "table": "1475.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1475,
+        "source": "nvBench",
+        "changed_image": "1475.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1475.png",
+        "level": "easy",
+        "table": "1475.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1475,
+        "source": "nvBench",
+        "changed_image": "1475_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1475.png",
+        "level": "easy",
+        "table": "1475.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1475,
+        "source": "nvBench",
+        "changed_image": "1475_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1475.png",
+        "level": "easy",
+        "table": "1475.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1475,
+        "source": "nvBench",
+        "changed_image": "1475_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1475.png",
+        "level": "easy",
+        "table": "1475.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1475,
+        "source": "nvBench",
+        "changed_image": "1475_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1475.png",
+        "level": "easy",
+        "table": "1475.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1475,
+        "source": "nvBench",
+        "changed_image": "1475_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1475.png",
+        "level": "easy",
+        "table": "1475.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1475,
+        "source": "nvBench",
+        "changed_image": "1475_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1476.png",
+        "level": "easy",
+        "table": "1476.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1476,
+        "source": "nvBench",
+        "changed_image": "1476.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1476.png",
+        "level": "easy",
+        "table": "1476.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1476,
+        "source": "nvBench",
+        "changed_image": "1476_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1476.png",
+        "level": "easy",
+        "table": "1476.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1476,
+        "source": "nvBench",
+        "changed_image": "1476_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1476.png",
+        "level": "easy",
+        "table": "1476.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1476,
+        "source": "nvBench",
+        "changed_image": "1476_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1476.png",
+        "level": "easy",
+        "table": "1476.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1476,
+        "source": "nvBench",
+        "changed_image": "1476_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1476.png",
+        "level": "easy",
+        "table": "1476.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1476,
+        "source": "nvBench",
+        "changed_image": "1476_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1476.png",
+        "level": "easy",
+        "table": "1476.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1476,
+        "source": "nvBench",
+        "changed_image": "1476_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1489.png",
+        "level": "easy",
+        "table": "1489.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1489,
+        "source": "nvBench",
+        "changed_image": "1489.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1489.png",
+        "level": "easy",
+        "table": "1489.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1489,
+        "source": "nvBench",
+        "changed_image": "1489_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1489.png",
+        "level": "easy",
+        "table": "1489.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1489,
+        "source": "nvBench",
+        "changed_image": "1489_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1489.png",
+        "level": "easy",
+        "table": "1489.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1489,
+        "source": "nvBench",
+        "changed_image": "1489_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1489.png",
+        "level": "easy",
+        "table": "1489.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1489,
+        "source": "nvBench",
+        "changed_image": "1489_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1489.png",
+        "level": "easy",
+        "table": "1489.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1489,
+        "source": "nvBench",
+        "changed_image": "1489_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1489.png",
+        "level": "easy",
+        "table": "1489.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1489,
+        "source": "nvBench",
+        "changed_image": "1489_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1601.png",
+        "level": "easy",
+        "table": "1601.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1601,
+        "source": "nvBench",
+        "changed_image": "1601.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1601.png",
+        "level": "easy",
+        "table": "1601.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1601,
+        "source": "nvBench",
+        "changed_image": "1601_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1601.png",
+        "level": "easy",
+        "table": "1601.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1601,
+        "source": "nvBench",
+        "changed_image": "1601_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1601.png",
+        "level": "easy",
+        "table": "1601.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1601,
+        "source": "nvBench",
+        "changed_image": "1601_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1601.png",
+        "level": "easy",
+        "table": "1601.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1601,
+        "source": "nvBench",
+        "changed_image": "1601_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1601.png",
+        "level": "easy",
+        "table": "1601.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1601,
+        "source": "nvBench",
+        "changed_image": "1601_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1601.png",
+        "level": "easy",
+        "table": "1601.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "scatter",
+        "id": 1601,
+        "source": "nvBench",
+        "changed_image": "1601_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1606.png",
+        "level": "easy",
+        "table": "1606.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1606,
+        "source": "nvBench",
+        "changed_image": "1606.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1606.png",
+        "level": "easy",
+        "table": "1606.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1606,
+        "source": "nvBench",
+        "changed_image": "1606_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1606.png",
+        "level": "easy",
+        "table": "1606.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1606,
+        "source": "nvBench",
+        "changed_image": "1606_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1606.png",
+        "level": "easy",
+        "table": "1606.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1606,
+        "source": "nvBench",
+        "changed_image": "1606_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1606.png",
+        "level": "easy",
+        "table": "1606.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1606,
+        "source": "nvBench",
+        "changed_image": "1606_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1606.png",
+        "level": "easy",
+        "table": "1606.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1606,
+        "source": "nvBench",
+        "changed_image": "1606_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1606.png",
+        "level": "easy",
+        "table": "1606.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1606,
+        "source": "nvBench",
+        "changed_image": "1606_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1625.png",
+        "level": "easy",
+        "table": "1625.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1625,
+        "source": "nvBench",
+        "changed_image": "1625.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1625.png",
+        "level": "easy",
+        "table": "1625.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1625,
+        "source": "nvBench",
+        "changed_image": "1625_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1625.png",
+        "level": "easy",
+        "table": "1625.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1625,
+        "source": "nvBench",
+        "changed_image": "1625_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1625.png",
+        "level": "easy",
+        "table": "1625.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1625,
+        "source": "nvBench",
+        "changed_image": "1625_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1625.png",
+        "level": "easy",
+        "table": "1625.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1625,
+        "source": "nvBench",
+        "changed_image": "1625_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1625.png",
+        "level": "easy",
+        "table": "1625.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1625,
+        "source": "nvBench",
+        "changed_image": "1625_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1625.png",
+        "level": "easy",
+        "table": "1625.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1625,
+        "source": "nvBench",
+        "changed_image": "1625_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1632.png",
+        "level": "easy",
+        "table": "1632.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1632,
+        "source": "nvBench",
+        "changed_image": "1632.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1632.png",
+        "level": "easy",
+        "table": "1632.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1632,
+        "source": "nvBench",
+        "changed_image": "1632_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1632.png",
+        "level": "easy",
+        "table": "1632.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1632,
+        "source": "nvBench",
+        "changed_image": "1632_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1632.png",
+        "level": "easy",
+        "table": "1632.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1632,
+        "source": "nvBench",
+        "changed_image": "1632_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1632.png",
+        "level": "easy",
+        "table": "1632.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1632,
+        "source": "nvBench",
+        "changed_image": "1632_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1632.png",
+        "level": "easy",
+        "table": "1632.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1632,
+        "source": "nvBench",
+        "changed_image": "1632_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1632.png",
+        "level": "easy",
+        "table": "1632.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1632,
+        "source": "nvBench",
+        "changed_image": "1632_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1656.png",
+        "level": "easy",
+        "table": "1656.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1656,
+        "source": "nvBench",
+        "changed_image": "1656.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1656.png",
+        "level": "easy",
+        "table": "1656.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1656,
+        "source": "nvBench",
+        "changed_image": "1656_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1656.png",
+        "level": "easy",
+        "table": "1656.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1656,
+        "source": "nvBench",
+        "changed_image": "1656_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1656.png",
+        "level": "easy",
+        "table": "1656.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1656,
+        "source": "nvBench",
+        "changed_image": "1656_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1656.png",
+        "level": "easy",
+        "table": "1656.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1656,
+        "source": "nvBench",
+        "changed_image": "1656_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1656.png",
+        "level": "easy",
+        "table": "1656.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1656,
+        "source": "nvBench",
+        "changed_image": "1656_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1656.png",
+        "level": "easy",
+        "table": "1656.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1656,
+        "source": "nvBench",
+        "changed_image": "1656_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1685.png",
+        "level": "easy",
+        "table": "1685.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1685,
+        "source": "nvBench",
+        "changed_image": "1685.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1685.png",
+        "level": "easy",
+        "table": "1685.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1685,
+        "source": "nvBench",
+        "changed_image": "1685_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1685.png",
+        "level": "easy",
+        "table": "1685.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1685,
+        "source": "nvBench",
+        "changed_image": "1685_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1685.png",
+        "level": "easy",
+        "table": "1685.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1685,
+        "source": "nvBench",
+        "changed_image": "1685_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1685.png",
+        "level": "easy",
+        "table": "1685.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1685,
+        "source": "nvBench",
+        "changed_image": "1685_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1685.png",
+        "level": "easy",
+        "table": "1685.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1685,
+        "source": "nvBench",
+        "changed_image": "1685_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1685.png",
+        "level": "easy",
+        "table": "1685.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "visual prompt": "[]",
+        "type": "common line",
+        "id": 1685,
+        "source": "nvBench",
+        "changed_image": "1685_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1777.png",
+        "level": "easy",
+        "table": "1777.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1777,
+        "source": "nvBench",
+        "changed_image": "1777.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1777.png",
+        "level": "easy",
+        "table": "1777.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1777,
+        "source": "nvBench",
+        "changed_image": "1777_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1777.png",
+        "level": "easy",
+        "table": "1777.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1777,
+        "source": "nvBench",
+        "changed_image": "1777_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1777.png",
+        "level": "easy",
+        "table": "1777.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1777,
+        "source": "nvBench",
+        "changed_image": "1777_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1777.png",
+        "level": "easy",
+        "table": "1777.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1777,
+        "source": "nvBench",
+        "changed_image": "1777_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1777.png",
+        "level": "easy",
+        "table": "1777.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1777,
+        "source": "nvBench",
+        "changed_image": "1777_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1777.png",
+        "level": "easy",
+        "table": "1777.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1777,
+        "source": "nvBench",
+        "changed_image": "1777_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1781.png",
+        "level": "easy",
+        "table": "1781.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1781,
+        "source": "nvBench",
+        "changed_image": "1781.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1781.png",
+        "level": "easy",
+        "table": "1781.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1781,
+        "source": "nvBench",
+        "changed_image": "1781_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1781.png",
+        "level": "easy",
+        "table": "1781.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1781,
+        "source": "nvBench",
+        "changed_image": "1781_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1781.png",
+        "level": "easy",
+        "table": "1781.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1781,
+        "source": "nvBench",
+        "changed_image": "1781_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1781.png",
+        "level": "easy",
+        "table": "1781.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1781,
+        "source": "nvBench",
+        "changed_image": "1781_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1781.png",
+        "level": "easy",
+        "table": "1781.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1781,
+        "source": "nvBench",
+        "changed_image": "1781_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1781.png",
+        "level": "easy",
+        "table": "1781.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1781,
+        "source": "nvBench",
+        "changed_image": "1781_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1787.png",
+        "level": "easy",
+        "table": "1787.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1787,
+        "source": "nvBench",
+        "changed_image": "1787.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1787.png",
+        "level": "easy",
+        "table": "1787.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1787,
+        "source": "nvBench",
+        "changed_image": "1787_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1787.png",
+        "level": "easy",
+        "table": "1787.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1787,
+        "source": "nvBench",
+        "changed_image": "1787_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1787.png",
+        "level": "easy",
+        "table": "1787.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1787,
+        "source": "nvBench",
+        "changed_image": "1787_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1787.png",
+        "level": "easy",
+        "table": "1787.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1787,
+        "source": "nvBench",
+        "changed_image": "1787_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1787.png",
+        "level": "easy",
+        "table": "1787.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1787,
+        "source": "nvBench",
+        "changed_image": "1787_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1787.png",
+        "level": "easy",
+        "table": "1787.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1787,
+        "source": "nvBench",
+        "changed_image": "1787_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1794.png",
+        "level": "easy",
+        "table": "1794.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1794,
+        "source": "nvBench",
+        "changed_image": "1794.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1794.png",
+        "level": "easy",
+        "table": "1794.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1794,
+        "source": "nvBench",
+        "changed_image": "1794_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1794.png",
+        "level": "easy",
+        "table": "1794.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1794,
+        "source": "nvBench",
+        "changed_image": "1794_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1794.png",
+        "level": "easy",
+        "table": "1794.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1794,
+        "source": "nvBench",
+        "changed_image": "1794_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1794.png",
+        "level": "easy",
+        "table": "1794.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1794,
+        "source": "nvBench",
+        "changed_image": "1794_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1794.png",
+        "level": "easy",
+        "table": "1794.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1794,
+        "source": "nvBench",
+        "changed_image": "1794_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1794.png",
+        "level": "easy",
+        "table": "1794.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1794,
+        "source": "nvBench",
+        "changed_image": "1794_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    },
+    {
+        "image": "1813.png",
+        "level": "easy",
+        "table": "1813.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1813,
+        "source": "nvBench",
+        "changed_image": "1813.png",
+        "attack_type": "original"
+    },
+    {
+        "image": "1813.png",
+        "level": "easy",
+        "table": "1813.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1813,
+        "source": "nvBench",
+        "changed_image": "1813_gaussian_blur.png",
+        "attack_type": "gaussian_blur"
+    },
+    {
+        "image": "1813.png",
+        "level": "easy",
+        "table": "1813.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1813,
+        "source": "nvBench",
+        "changed_image": "1813_gaussian_noise.png",
+        "attack_type": "gaussian_noise"
+    },
+    {
+        "image": "1813.png",
+        "level": "easy",
+        "table": "1813.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1813,
+        "source": "nvBench",
+        "changed_image": "1813_higher_brightness.png",
+        "attack_type": "higher_brightness"
+    },
+    {
+        "image": "1813.png",
+        "level": "easy",
+        "table": "1813.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1813,
+        "source": "nvBench",
+        "changed_image": "1813_lower_brightness.png",
+        "attack_type": "lower_brightness"
+    },
+    {
+        "image": "1813.png",
+        "level": "easy",
+        "table": "1813.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1813,
+        "source": "nvBench",
+        "changed_image": "1813_median_blur.png",
+        "attack_type": "median_blur"
+    },
+    {
+        "image": "1813.png",
+        "level": "easy",
+        "table": "1813.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "visual prompt": "[]",
+        "type": "pie",
+        "id": 1813,
+        "source": "nvBench",
+        "changed_image": "1813_salt_pepper_noise.png",
+        "attack_type": "salt_pepper_noise"
+    }
+]

@@ -1,0 +1,6115 @@
+[
+    {
+        "image": "6.png",
+        "level": "complex",
+        "table": "6.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 6,
+        "source": "ChartQA"
+    },
+    {
+        "image": "9.png",
+        "level": "complex",
+        "table": "9.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 9,
+        "source": "ChartQA"
+    },
+    {
+        "image": "19.png",
+        "level": "complex",
+        "table": "19.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 19,
+        "source": "ChartQA"
+    },
+    {
+        "image": "25.png",
+        "level": "complex",
+        "table": "25.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 25,
+        "source": "ChartQA"
+    },
+    {
+        "image": "26.png",
+        "level": "complex",
+        "table": "26.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 26,
+        "source": "ChartQA"
+    },
+    {
+        "image": "33.png",
+        "level": "complex",
+        "table": "33.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 33,
+        "source": "ChartQA"
+    },
+    {
+        "image": "39.png",
+        "level": "complex",
+        "table": "39.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 39,
+        "source": "ChartQA"
+    },
+    {
+        "image": "50.png",
+        "level": "complex",
+        "table": "50.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 50,
+        "source": "ChartQA"
+    },
+    {
+        "image": "51.png",
+        "level": "complex",
+        "table": "51.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 51,
+        "source": "ChartQA"
+    },
+    {
+        "image": "64.png",
+        "level": "complex",
+        "table": "64.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 64,
+        "source": "ChartQA"
+    },
+    {
+        "image": "68.png",
+        "level": "complex",
+        "table": "68.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 68,
+        "source": "ChartQA"
+    },
+    {
+        "image": "70.png",
+        "level": "complex",
+        "table": "70.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 70,
+        "source": "ChartQA"
+    },
+    {
+        "image": "74.png",
+        "level": "complex",
+        "table": "74.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 74,
+        "source": "ChartQA"
+    },
+    {
+        "image": "75.png",
+        "level": "complex",
+        "table": "75.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 75,
+        "source": "ChartQA"
+    },
+    {
+        "image": "80.png",
+        "level": "complex",
+        "table": "80.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 80,
+        "source": "ChartQA"
+    },
+    {
+        "image": "87.png",
+        "level": "complex",
+        "table": "87.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 87,
+        "source": "ChartQA"
+    },
+    {
+        "image": "99.png",
+        "level": "complex",
+        "table": "99.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 99,
+        "source": "ChartQA"
+    },
+    {
+        "image": "109.png",
+        "level": "complex",
+        "table": "109.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 109,
+        "source": "ChartQA"
+    },
+    {
+        "image": "118.png",
+        "level": "complex",
+        "table": "118.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 118,
+        "source": "ChartQA"
+    },
+    {
+        "image": "121.png",
+        "level": "complex",
+        "table": "121.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 121,
+        "source": "ChartQA"
+    },
+    {
+        "image": "123.png",
+        "level": "complex",
+        "table": "123.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 123,
+        "source": "ChartQA"
+    },
+    {
+        "image": "139.png",
+        "level": "complex",
+        "table": "139.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 139,
+        "source": "ChartQA"
+    },
+    {
+        "image": "143.png",
+        "level": "complex",
+        "table": "143.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 143,
+        "source": "ChartQA"
+    },
+    {
+        "image": "148.png",
+        "level": "complex",
+        "table": "148.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 148,
+        "source": "ChartQA"
+    },
+    {
+        "image": "149.png",
+        "level": "complex",
+        "table": "149.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 149,
+        "source": "ChartQA"
+    },
+    {
+        "image": "161.png",
+        "level": "complex",
+        "table": "161.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 161,
+        "source": "ChartQA"
+    },
+    {
+        "image": "163.png",
+        "level": "complex",
+        "table": "163.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 163,
+        "source": "ChartQA"
+    },
+    {
+        "image": "166.png",
+        "level": "complex",
+        "table": "166.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 166,
+        "source": "ChartQA"
+    },
+    {
+        "image": "167.png",
+        "level": "complex",
+        "table": "167.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 167,
+        "source": "ChartQA"
+    },
+    {
+        "image": "176.png",
+        "level": "complex",
+        "table": "176.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 176,
+        "source": "ChartQA"
+    },
+    {
+        "image": "177.png",
+        "level": "complex",
+        "table": "177.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 177,
+        "source": "ChartQA"
+    },
+    {
+        "image": "190.png",
+        "level": "complex",
+        "table": "190.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 190,
+        "source": "ChartQA"
+    },
+    {
+        "image": "191.png",
+        "level": "complex",
+        "table": "191.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 191,
+        "source": "ChartQA"
+    },
+    {
+        "image": "196.png",
+        "level": "complex",
+        "table": "196.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 196,
+        "source": "ChartQA"
+    },
+    {
+        "image": "211.png",
+        "level": "complex",
+        "table": "211.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 211,
+        "source": "ChartQA"
+    },
+    {
+        "image": "222.png",
+        "level": "complex",
+        "table": "222.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 222,
+        "source": "ChartQA"
+    },
+    {
+        "image": "237.png",
+        "level": "complex",
+        "table": "237.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 237,
+        "source": "ChartQA"
+    },
+    {
+        "image": "238.png",
+        "level": "complex",
+        "table": "238.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 238,
+        "source": "ChartQA"
+    },
+    {
+        "image": "251.png",
+        "level": "complex",
+        "table": "251.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 251,
+        "source": "ChartQA"
+    },
+    {
+        "image": "265.png",
+        "level": "complex",
+        "table": "265.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 265,
+        "source": "ChartQA"
+    },
+    {
+        "image": "266.png",
+        "level": "complex",
+        "table": "266.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 266,
+        "source": "ChartQA"
+    },
+    {
+        "image": "268.png",
+        "level": "complex",
+        "table": "268.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 268,
+        "source": "ChartQA"
+    },
+    {
+        "image": "271.png",
+        "level": "complex",
+        "table": "271.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 271,
+        "source": "ChartQA"
+    },
+    {
+        "image": "275.png",
+        "level": "complex",
+        "table": "275.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 275,
+        "source": "ChartQA"
+    },
+    {
+        "image": "276.png",
+        "level": "complex",
+        "table": "276.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 276,
+        "source": "ChartQA"
+    },
+    {
+        "image": "279.png",
+        "level": "complex",
+        "table": "279.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 279,
+        "source": "ChartQA"
+    },
+    {
+        "image": "289.png",
+        "level": "complex",
+        "table": "289.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 289,
+        "source": "ChartQA"
+    },
+    {
+        "image": "291.png",
+        "level": "complex",
+        "table": "291.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 291,
+        "source": "ChartQA"
+    },
+    {
+        "image": "299.png",
+        "level": "complex",
+        "table": "299.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 299,
+        "source": "ChartQA"
+    },
+    {
+        "image": "304.png",
+        "level": "complex",
+        "table": "304.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 304,
+        "source": "ChartQA"
+    },
+    {
+        "image": "310.png",
+        "level": "complex",
+        "table": "310.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 310,
+        "source": "ChartQA"
+    },
+    {
+        "image": "311.png",
+        "level": "complex",
+        "table": "311.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 311,
+        "source": "ChartQA"
+    },
+    {
+        "image": "314.png",
+        "level": "complex",
+        "table": "314.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 314,
+        "source": "ChartQA"
+    },
+    {
+        "image": "320.png",
+        "level": "complex",
+        "table": "320.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 320,
+        "source": "ChartQA"
+    },
+    {
+        "image": "321.png",
+        "level": "complex",
+        "table": "321.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 321,
+        "source": "ChartQA"
+    },
+    {
+        "image": "323.png",
+        "level": "complex",
+        "table": "323.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 323,
+        "source": "ChartQA"
+    },
+    {
+        "image": "328.png",
+        "level": "complex",
+        "table": "328.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 328,
+        "source": "ChartQA"
+    },
+    {
+        "image": "332.png",
+        "level": "complex",
+        "table": "332.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 332,
+        "source": "ChartQA"
+    },
+    {
+        "image": "341.png",
+        "level": "complex",
+        "table": "341.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 341,
+        "source": "ChartQA"
+    },
+    {
+        "image": "351.png",
+        "level": "complex",
+        "table": "351.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 351,
+        "source": "ChartQA"
+    },
+    {
+        "image": "359.png",
+        "level": "complex",
+        "table": "359.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 359,
+        "source": "ChartQA"
+    },
+    {
+        "image": "370.png",
+        "level": "complex",
+        "table": "370.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 370,
+        "source": "ChartQA"
+    },
+    {
+        "image": "372.png",
+        "level": "complex",
+        "table": "372.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 372,
+        "source": "ChartQA"
+    },
+    {
+        "image": "373.png",
+        "level": "complex",
+        "table": "373.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 373,
+        "source": "ChartQA"
+    },
+    {
+        "image": "377.png",
+        "level": "complex",
+        "table": "377.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 377,
+        "source": "ChartQA"
+    },
+    {
+        "image": "378.png",
+        "level": "complex",
+        "table": "378.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 378,
+        "source": "ChartQA"
+    },
+    {
+        "image": "380.png",
+        "level": "complex",
+        "table": "380.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 380,
+        "source": "ChartQA"
+    },
+    {
+        "image": "392.png",
+        "level": "complex",
+        "table": "392.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 392,
+        "source": "ChartQA"
+    },
+    {
+        "image": "402.png",
+        "level": "complex",
+        "table": "402.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 402,
+        "source": "ChartQA"
+    },
+    {
+        "image": "403.png",
+        "level": "complex",
+        "table": "403.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 403,
+        "source": "ChartQA"
+    },
+    {
+        "image": "418.png",
+        "level": "complex",
+        "table": "418.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 418,
+        "source": "ChartQA"
+    },
+    {
+        "image": "428.png",
+        "level": "complex",
+        "table": "428.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 428,
+        "source": "ChartQA"
+    },
+    {
+        "image": "439.png",
+        "level": "complex",
+        "table": "439.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 439,
+        "source": "ChartQA"
+    },
+    {
+        "image": "444.png",
+        "level": "complex",
+        "table": "444.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 444,
+        "source": "ChartQA"
+    },
+    {
+        "image": "459.png",
+        "level": "complex",
+        "table": "459.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 459,
+        "source": "ChartQA"
+    },
+    {
+        "image": "464.png",
+        "level": "complex",
+        "table": "464.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 464,
+        "source": "ChartQA"
+    },
+    {
+        "image": "465.png",
+        "level": "complex",
+        "table": "465.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 465,
+        "source": "ChartQA"
+    },
+    {
+        "image": "467.png",
+        "level": "complex",
+        "table": "467.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 467,
+        "source": "ChartQA"
+    },
+    {
+        "image": "475.png",
+        "level": "complex",
+        "table": "475.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 475,
+        "source": "ChartQA"
+    },
+    {
+        "image": "486.png",
+        "level": "complex",
+        "table": "486.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 486,
+        "source": "ChartQA"
+    },
+    {
+        "image": "487.png",
+        "level": "complex",
+        "table": "487.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 487,
+        "source": "ChartQA"
+    },
+    {
+        "image": "497.png",
+        "level": "complex",
+        "table": "497.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 497,
+        "source": "ChartQA"
+    },
+    {
+        "image": "503.png",
+        "level": "complex",
+        "table": "503.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 503,
+        "source": "ChartQA"
+    },
+    {
+        "image": "520.png",
+        "level": "complex",
+        "table": "520.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 520,
+        "source": "ChartQA"
+    },
+    {
+        "image": "522.png",
+        "level": "complex",
+        "table": "522.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 522,
+        "source": "ChartQA"
+    },
+    {
+        "image": "523.png",
+        "level": "complex",
+        "table": "523.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 523,
+        "source": "ChartQA"
+    },
+    {
+        "image": "524.png",
+        "level": "complex",
+        "table": "524.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 524,
+        "source": "ChartQA"
+    },
+    {
+        "image": "526.png",
+        "level": "complex",
+        "table": "526.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 526,
+        "source": "ChartQA"
+    },
+    {
+        "image": "531.png",
+        "level": "complex",
+        "table": "531.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 531,
+        "source": "ChartQA"
+    },
+    {
+        "image": "532.png",
+        "level": "complex",
+        "table": "532.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 532,
+        "source": "ChartQA"
+    },
+    {
+        "image": "542.png",
+        "level": "complex",
+        "table": "542.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 542,
+        "source": "ChartQA"
+    },
+    {
+        "image": "543.png",
+        "level": "complex",
+        "table": "543.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 543,
+        "source": "ChartQA"
+    },
+    {
+        "image": "547.png",
+        "level": "complex",
+        "table": "547.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 547,
+        "source": "ChartQA"
+    },
+    {
+        "image": "548.png",
+        "level": "complex",
+        "table": "548.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 548,
+        "source": "ChartQA"
+    },
+    {
+        "image": "555.png",
+        "level": "complex",
+        "table": "555.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 555,
+        "source": "ChartQA"
+    },
+    {
+        "image": "556.png",
+        "level": "complex",
+        "table": "556.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 556,
+        "source": "ChartQA"
+    },
+    {
+        "image": "563.png",
+        "level": "complex",
+        "table": "563.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 563,
+        "source": "ChartQA"
+    },
+    {
+        "image": "567.png",
+        "level": "complex",
+        "table": "567.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 567,
+        "source": "ChartQA"
+    },
+    {
+        "image": "572.png",
+        "level": "complex",
+        "table": "572.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 572,
+        "source": "ChartQA"
+    },
+    {
+        "image": "573.png",
+        "level": "complex",
+        "table": "573.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 573,
+        "source": "ChartQA"
+    },
+    {
+        "image": "575.png",
+        "level": "complex",
+        "table": "575.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 575,
+        "source": "ChartQA"
+    },
+    {
+        "image": "585.png",
+        "level": "complex",
+        "table": "585.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 585,
+        "source": "ChartQA"
+    },
+    {
+        "image": "587.png",
+        "level": "complex",
+        "table": "587.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 587,
+        "source": "ChartQA"
+    },
+    {
+        "image": "590.png",
+        "level": "complex",
+        "table": "590.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 590,
+        "source": "ChartQA"
+    },
+    {
+        "image": "605.png",
+        "level": "complex",
+        "table": "605.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 605,
+        "source": "ChartQA"
+    },
+    {
+        "image": "606.png",
+        "level": "complex",
+        "table": "606.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 606,
+        "source": "ChartQA"
+    },
+    {
+        "image": "611.png",
+        "level": "complex",
+        "table": "611.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 611,
+        "source": "ChartQA"
+    },
+    {
+        "image": "615.png",
+        "level": "complex",
+        "table": "615.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 615,
+        "source": "ChartQA"
+    },
+    {
+        "image": "617.png",
+        "level": "complex",
+        "table": "617.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 617,
+        "source": "ChartQA"
+    },
+    {
+        "image": "619.png",
+        "level": "complex",
+        "table": "619.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 619,
+        "source": "ChartQA"
+    },
+    {
+        "image": "624.png",
+        "level": "complex",
+        "table": "624.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 624,
+        "source": "ChartQA"
+    },
+    {
+        "image": "630.png",
+        "level": "complex",
+        "table": "630.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 630,
+        "source": "ChartQA"
+    },
+    {
+        "image": "631.png",
+        "level": "complex",
+        "table": "631.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 631,
+        "source": "ChartQA"
+    },
+    {
+        "image": "632.png",
+        "level": "complex",
+        "table": "632.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 632,
+        "source": "ChartQA"
+    },
+    {
+        "image": "641.png",
+        "level": "complex",
+        "table": "641.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 641,
+        "source": "ChartQA"
+    },
+    {
+        "image": "644.png",
+        "level": "complex",
+        "table": "644.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 644,
+        "source": "ChartQA"
+    },
+    {
+        "image": "646.png",
+        "level": "complex",
+        "table": "646.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 646,
+        "source": "ChartQA"
+    },
+    {
+        "image": "648.png",
+        "level": "complex",
+        "table": "648.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 648,
+        "source": "ChartQA"
+    },
+    {
+        "image": "651.png",
+        "level": "complex",
+        "table": "651.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 651,
+        "source": "ChartQA"
+    },
+    {
+        "image": "653.png",
+        "level": "complex",
+        "table": "653.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 653,
+        "source": "ChartQA"
+    },
+    {
+        "image": "655.png",
+        "level": "complex",
+        "table": "655.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 655,
+        "source": "ChartQA"
+    },
+    {
+        "image": "659.png",
+        "level": "complex",
+        "table": "659.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 659,
+        "source": "ChartQA"
+    },
+    {
+        "image": "664.png",
+        "level": "complex",
+        "table": "664.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 664,
+        "source": "ChartQA"
+    },
+    {
+        "image": "665.png",
+        "level": "complex",
+        "table": "665.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 665,
+        "source": "ChartQA"
+    },
+    {
+        "image": "667.png",
+        "level": "complex",
+        "table": "667.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 667,
+        "source": "ChartQA"
+    },
+    {
+        "image": "669.png",
+        "level": "complex",
+        "table": "669.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 669,
+        "source": "ChartQA"
+    },
+    {
+        "image": "671.png",
+        "level": "complex",
+        "table": "671.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 671,
+        "source": "ChartQA"
+    },
+    {
+        "image": "679.png",
+        "level": "complex",
+        "table": "679.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 679,
+        "source": "ChartQA"
+    },
+    {
+        "image": "682.png",
+        "level": "complex",
+        "table": "682.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 682,
+        "source": "ChartQA"
+    },
+    {
+        "image": "683.png",
+        "level": "complex",
+        "table": "683.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 683,
+        "source": "ChartQA"
+    },
+    {
+        "image": "688.png",
+        "level": "complex",
+        "table": "688.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 688,
+        "source": "ChartQA"
+    },
+    {
+        "image": "690.png",
+        "level": "complex",
+        "table": "690.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 690,
+        "source": "ChartQA"
+    },
+    {
+        "image": "703.png",
+        "level": "complex",
+        "table": "703.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 703,
+        "source": "ChartQA"
+    },
+    {
+        "image": "704.png",
+        "level": "complex",
+        "table": "704.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 704,
+        "source": "ChartQA"
+    },
+    {
+        "image": "705.png",
+        "level": "complex",
+        "table": "705.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 705,
+        "source": "ChartQA"
+    },
+    {
+        "image": "707.png",
+        "level": "complex",
+        "table": "707.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 707,
+        "source": "ChartQA"
+    },
+    {
+        "image": "727.png",
+        "level": "complex",
+        "table": "727.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 727,
+        "source": "ChartQA"
+    },
+    {
+        "image": "731.png",
+        "level": "complex",
+        "table": "731.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 731,
+        "source": "ChartQA"
+    },
+    {
+        "image": "740.png",
+        "level": "complex",
+        "table": "740.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 740,
+        "source": "ChartQA"
+    },
+    {
+        "image": "744.png",
+        "level": "complex",
+        "table": "744.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 744,
+        "source": "ChartQA"
+    },
+    {
+        "image": "748.png",
+        "level": "complex",
+        "table": "748.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 748,
+        "source": "ChartQA"
+    },
+    {
+        "image": "751.png",
+        "level": "complex",
+        "table": "751.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 751,
+        "source": "ChartQA"
+    },
+    {
+        "image": "755.png",
+        "level": "complex",
+        "table": "755.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 755,
+        "source": "ChartQA"
+    },
+    {
+        "image": "758.png",
+        "level": "complex",
+        "table": "758.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 758,
+        "source": "ChartQA"
+    },
+    {
+        "image": "765.png",
+        "level": "complex",
+        "table": "765.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 765,
+        "source": "ChartQA"
+    },
+    {
+        "image": "774.png",
+        "level": "complex",
+        "table": "774.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 774,
+        "source": "ChartQA"
+    },
+    {
+        "image": "778.png",
+        "level": "complex",
+        "table": "778.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 778,
+        "source": "ChartQA"
+    },
+    {
+        "image": "783.png",
+        "level": "complex",
+        "table": "783.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 783,
+        "source": "ChartQA"
+    },
+    {
+        "image": "787.png",
+        "level": "complex",
+        "table": "787.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 787,
+        "source": "ChartQA"
+    },
+    {
+        "image": "789.png",
+        "level": "complex",
+        "table": "789.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 789,
+        "source": "ChartQA"
+    },
+    {
+        "image": "799.png",
+        "level": "complex",
+        "table": "799.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 799,
+        "source": "ChartQA"
+    },
+    {
+        "image": "805.png",
+        "level": "complex",
+        "table": "805.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 805,
+        "source": "ChartQA"
+    },
+    {
+        "image": "810.png",
+        "level": "complex",
+        "table": "810.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 810,
+        "source": "ChartQA"
+    },
+    {
+        "image": "813.png",
+        "level": "complex",
+        "table": "813.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 813,
+        "source": "ChartQA"
+    },
+    {
+        "image": "825.png",
+        "level": "complex",
+        "table": "825.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 825,
+        "source": "ChartQA"
+    },
+    {
+        "image": "827.png",
+        "level": "complex",
+        "table": "827.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 827,
+        "source": "ChartQA"
+    },
+    {
+        "image": "846.png",
+        "level": "complex",
+        "table": "846.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 846,
+        "source": "ChartQA"
+    },
+    {
+        "image": "851.png",
+        "level": "complex",
+        "table": "851.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 851,
+        "source": "ChartQA"
+    },
+    {
+        "image": "852.png",
+        "level": "complex",
+        "table": "852.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 852,
+        "source": "ChartQA"
+    },
+    {
+        "image": "853.png",
+        "level": "complex",
+        "table": "853.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 853,
+        "source": "ChartQA"
+    },
+    {
+        "image": "854.png",
+        "level": "complex",
+        "table": "854.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 854,
+        "source": "ChartQA"
+    },
+    {
+        "image": "856.png",
+        "level": "complex",
+        "table": "856.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 856,
+        "source": "ChartQA"
+    },
+    {
+        "image": "857.png",
+        "level": "complex",
+        "table": "857.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 857,
+        "source": "ChartQA"
+    },
+    {
+        "image": "862.png",
+        "level": "complex",
+        "table": "862.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 862,
+        "source": "ChartQA"
+    },
+    {
+        "image": "870.png",
+        "level": "complex",
+        "table": "870.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 870,
+        "source": "ChartQA"
+    },
+    {
+        "image": "876.png",
+        "level": "complex",
+        "table": "876.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 876,
+        "source": "ChartQA"
+    },
+    {
+        "image": "882.png",
+        "level": "complex",
+        "table": "882.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 882,
+        "source": "ChartQA"
+    },
+    {
+        "image": "889.png",
+        "level": "complex",
+        "table": "889.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 889,
+        "source": "ChartQA"
+    },
+    {
+        "image": "906.png",
+        "level": "complex",
+        "table": "906.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 906,
+        "source": "ChartQA"
+    },
+    {
+        "image": "911.png",
+        "level": "easy",
+        "table": "911.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 911,
+        "source": "nvBench"
+    },
+    {
+        "image": "914.png",
+        "level": "easy",
+        "table": "914.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 914,
+        "source": "nvBench"
+    },
+    {
+        "image": "922.png",
+        "level": "easy",
+        "table": "922.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 922,
+        "source": "nvBench"
+    },
+    {
+        "image": "923.png",
+        "level": "easy",
+        "table": "923.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 923,
+        "source": "nvBench"
+    },
+    {
+        "image": "932.png",
+        "level": "easy",
+        "table": "932.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 932,
+        "source": "nvBench"
+    },
+    {
+        "image": "937.png",
+        "level": "easy",
+        "table": "937.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 937,
+        "source": "nvBench"
+    },
+    {
+        "image": "939.png",
+        "level": "easy",
+        "table": "939.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 939,
+        "source": "nvBench"
+    },
+    {
+        "image": "940.png",
+        "level": "easy",
+        "table": "940.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 940,
+        "source": "nvBench"
+    },
+    {
+        "image": "941.png",
+        "level": "easy",
+        "table": "941.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 941,
+        "source": "nvBench"
+    },
+    {
+        "image": "943.png",
+        "level": "easy",
+        "table": "943.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 943,
+        "source": "nvBench"
+    },
+    {
+        "image": "958.png",
+        "level": "easy",
+        "table": "958.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 958,
+        "source": "nvBench"
+    },
+    {
+        "image": "963.png",
+        "level": "easy",
+        "table": "963.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 963,
+        "source": "nvBench"
+    },
+    {
+        "image": "981.png",
+        "level": "easy",
+        "table": "981.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 981,
+        "source": "nvBench"
+    },
+    {
+        "image": "983.png",
+        "level": "easy",
+        "table": "983.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 983,
+        "source": "nvBench"
+    },
+    {
+        "image": "987.png",
+        "level": "easy",
+        "table": "987.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 987,
+        "source": "nvBench"
+    },
+    {
+        "image": "991.png",
+        "level": "easy",
+        "table": "991.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 991,
+        "source": "nvBench"
+    },
+    {
+        "image": "992.png",
+        "level": "easy",
+        "table": "992.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 992,
+        "source": "nvBench"
+    },
+    {
+        "image": "993.png",
+        "level": "easy",
+        "table": "993.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 993,
+        "source": "nvBench"
+    },
+    {
+        "image": "994.png",
+        "level": "easy",
+        "table": "994.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 994,
+        "source": "nvBench"
+    },
+    {
+        "image": "1004.png",
+        "level": "easy",
+        "table": "1004.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1004,
+        "source": "nvBench"
+    },
+    {
+        "image": "1006.png",
+        "level": "easy",
+        "table": "1006.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1006,
+        "source": "nvBench"
+    },
+    {
+        "image": "1020.png",
+        "level": "easy",
+        "table": "1020.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1020,
+        "source": "nvBench"
+    },
+    {
+        "image": "1027.png",
+        "level": "easy",
+        "table": "1027.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1027,
+        "source": "nvBench"
+    },
+    {
+        "image": "1033.png",
+        "level": "easy",
+        "table": "1033.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1033,
+        "source": "nvBench"
+    },
+    {
+        "image": "1036.png",
+        "level": "easy",
+        "table": "1036.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1036,
+        "source": "nvBench"
+    },
+    {
+        "image": "1039.png",
+        "level": "easy",
+        "table": "1039.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1039,
+        "source": "nvBench"
+    },
+    {
+        "image": "1058.png",
+        "level": "easy",
+        "table": "1058.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1058,
+        "source": "nvBench"
+    },
+    {
+        "image": "1064.png",
+        "level": "easy",
+        "table": "1064.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1064,
+        "source": "nvBench"
+    },
+    {
+        "image": "1066.png",
+        "level": "easy",
+        "table": "1066.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1066,
+        "source": "nvBench"
+    },
+    {
+        "image": "1067.png",
+        "level": "easy",
+        "table": "1067.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1067,
+        "source": "nvBench"
+    },
+    {
+        "image": "1075.png",
+        "level": "easy",
+        "table": "1075.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1075,
+        "source": "nvBench"
+    },
+    {
+        "image": "1076.png",
+        "level": "easy",
+        "table": "1076.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1076,
+        "source": "nvBench"
+    },
+    {
+        "image": "1078.png",
+        "level": "easy",
+        "table": "1078.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1078,
+        "source": "nvBench"
+    },
+    {
+        "image": "1082.png",
+        "level": "easy",
+        "table": "1082.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1082,
+        "source": "nvBench"
+    },
+    {
+        "image": "1085.png",
+        "level": "easy",
+        "table": "1085.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1085,
+        "source": "nvBench"
+    },
+    {
+        "image": "1090.png",
+        "level": "easy",
+        "table": "1090.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1090,
+        "source": "nvBench"
+    },
+    {
+        "image": "1094.png",
+        "level": "easy",
+        "table": "1094.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1094,
+        "source": "nvBench"
+    },
+    {
+        "image": "1095.png",
+        "level": "easy",
+        "table": "1095.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1095,
+        "source": "nvBench"
+    },
+    {
+        "image": "1098.png",
+        "level": "easy",
+        "table": "1098.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1098,
+        "source": "nvBench"
+    },
+    {
+        "image": "1103.png",
+        "level": "easy",
+        "table": "1103.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1103,
+        "source": "nvBench"
+    },
+    {
+        "image": "1104.png",
+        "level": "easy",
+        "table": "1104.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1104,
+        "source": "nvBench"
+    },
+    {
+        "image": "1114.png",
+        "level": "easy",
+        "table": "1114.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1114,
+        "source": "nvBench"
+    },
+    {
+        "image": "1116.png",
+        "level": "easy",
+        "table": "1116.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1116,
+        "source": "nvBench"
+    },
+    {
+        "image": "1122.png",
+        "level": "easy",
+        "table": "1122.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1122,
+        "source": "nvBench"
+    },
+    {
+        "image": "1123.png",
+        "level": "easy",
+        "table": "1123.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1123,
+        "source": "nvBench"
+    },
+    {
+        "image": "1126.png",
+        "level": "easy",
+        "table": "1126.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1126,
+        "source": "nvBench"
+    },
+    {
+        "image": "1132.png",
+        "level": "easy",
+        "table": "1132.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1132,
+        "source": "nvBench"
+    },
+    {
+        "image": "1134.png",
+        "level": "easy",
+        "table": "1134.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1134,
+        "source": "nvBench"
+    },
+    {
+        "image": "1136.png",
+        "level": "easy",
+        "table": "1136.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1136,
+        "source": "nvBench"
+    },
+    {
+        "image": "1140.png",
+        "level": "easy",
+        "table": "1140.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1140,
+        "source": "nvBench"
+    },
+    {
+        "image": "1142.png",
+        "level": "easy",
+        "table": "1142.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1142,
+        "source": "nvBench"
+    },
+    {
+        "image": "1147.png",
+        "level": "easy",
+        "table": "1147.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1147,
+        "source": "nvBench"
+    },
+    {
+        "image": "1156.png",
+        "level": "easy",
+        "table": "1156.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1156,
+        "source": "nvBench"
+    },
+    {
+        "image": "1172.png",
+        "level": "easy",
+        "table": "1172.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1172,
+        "source": "nvBench"
+    },
+    {
+        "image": "1178.png",
+        "level": "easy",
+        "table": "1178.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1178,
+        "source": "nvBench"
+    },
+    {
+        "image": "1179.png",
+        "level": "easy",
+        "table": "1179.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1179,
+        "source": "nvBench"
+    },
+    {
+        "image": "1188.png",
+        "level": "easy",
+        "table": "1188.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1188,
+        "source": "nvBench"
+    },
+    {
+        "image": "1189.png",
+        "level": "easy",
+        "table": "1189.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1189,
+        "source": "nvBench"
+    },
+    {
+        "image": "1190.png",
+        "level": "easy",
+        "table": "1190.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1190,
+        "source": "nvBench"
+    },
+    {
+        "image": "1194.png",
+        "level": "easy",
+        "table": "1194.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1194,
+        "source": "nvBench"
+    },
+    {
+        "image": "1199.png",
+        "level": "easy",
+        "table": "1199.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1199,
+        "source": "nvBench"
+    },
+    {
+        "image": "1200.png",
+        "level": "easy",
+        "table": "1200.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1200,
+        "source": "nvBench"
+    },
+    {
+        "image": "1205.png",
+        "level": "easy",
+        "table": "1205.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1205,
+        "source": "nvBench"
+    },
+    {
+        "image": "1206.png",
+        "level": "easy",
+        "table": "1206.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1206,
+        "source": "nvBench"
+    },
+    {
+        "image": "1208.png",
+        "level": "easy",
+        "table": "1208.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1208,
+        "source": "nvBench"
+    },
+    {
+        "image": "1209.png",
+        "level": "easy",
+        "table": "1209.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1209,
+        "source": "nvBench"
+    },
+    {
+        "image": "1217.png",
+        "level": "easy",
+        "table": "1217.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1217,
+        "source": "nvBench"
+    },
+    {
+        "image": "1235.png",
+        "level": "easy",
+        "table": "1235.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1235,
+        "source": "nvBench"
+    },
+    {
+        "image": "1238.png",
+        "level": "easy",
+        "table": "1238.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1238,
+        "source": "nvBench"
+    },
+    {
+        "image": "1255.png",
+        "level": "easy",
+        "table": "1255.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1255,
+        "source": "nvBench"
+    },
+    {
+        "image": "1258.png",
+        "level": "easy",
+        "table": "1258.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1258,
+        "source": "nvBench"
+    },
+    {
+        "image": "1267.png",
+        "level": "easy",
+        "table": "1267.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1267,
+        "source": "nvBench"
+    },
+    {
+        "image": "1279.png",
+        "level": "easy",
+        "table": "1279.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1279,
+        "source": "nvBench"
+    },
+    {
+        "image": "1282.png",
+        "level": "easy",
+        "table": "1282.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1282,
+        "source": "nvBench"
+    },
+    {
+        "image": "1286.png",
+        "level": "easy",
+        "table": "1286.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1286,
+        "source": "nvBench"
+    },
+    {
+        "image": "1290.png",
+        "level": "easy",
+        "table": "1290.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1290,
+        "source": "nvBench"
+    },
+    {
+        "image": "1301.png",
+        "level": "easy",
+        "table": "1301.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1301,
+        "source": "nvBench"
+    },
+    {
+        "image": "1304.png",
+        "level": "easy",
+        "table": "1304.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1304,
+        "source": "nvBench"
+    },
+    {
+        "image": "1322.png",
+        "level": "easy",
+        "table": "1322.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1322,
+        "source": "nvBench"
+    },
+    {
+        "image": "1324.png",
+        "level": "easy",
+        "table": "1324.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1324,
+        "source": "nvBench"
+    },
+    {
+        "image": "1331.png",
+        "level": "easy",
+        "table": "1331.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1331,
+        "source": "nvBench"
+    },
+    {
+        "image": "1334.png",
+        "level": "easy",
+        "table": "1334.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1334,
+        "source": "nvBench"
+    },
+    {
+        "image": "1339.png",
+        "level": "easy",
+        "table": "1339.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1339,
+        "source": "nvBench"
+    },
+    {
+        "image": "1348.png",
+        "level": "easy",
+        "table": "1348.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1348,
+        "source": "nvBench"
+    },
+    {
+        "image": "1353.png",
+        "level": "easy",
+        "table": "1353.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1353,
+        "source": "nvBench"
+    },
+    {
+        "image": "1354.png",
+        "level": "easy",
+        "table": "1354.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1354,
+        "source": "nvBench"
+    },
+    {
+        "image": "1355.png",
+        "level": "easy",
+        "table": "1355.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1355,
+        "source": "nvBench"
+    },
+    {
+        "image": "1369.png",
+        "level": "easy",
+        "table": "1369.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1369,
+        "source": "nvBench"
+    },
+    {
+        "image": "1374.png",
+        "level": "easy",
+        "table": "1374.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1374,
+        "source": "nvBench"
+    },
+    {
+        "image": "1380.png",
+        "level": "easy",
+        "table": "1380.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1380,
+        "source": "nvBench"
+    },
+    {
+        "image": "1381.png",
+        "level": "easy",
+        "table": "1381.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1381,
+        "source": "nvBench"
+    },
+    {
+        "image": "1384.png",
+        "level": "easy",
+        "table": "1384.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1384,
+        "source": "nvBench"
+    },
+    {
+        "image": "1391.png",
+        "level": "easy",
+        "table": "1391.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1391,
+        "source": "nvBench"
+    },
+    {
+        "image": "1398.png",
+        "level": "easy",
+        "table": "1398.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1398,
+        "source": "nvBench"
+    },
+    {
+        "image": "1405.png",
+        "level": "easy",
+        "table": "1405.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1405,
+        "source": "nvBench"
+    },
+    {
+        "image": "1407.png",
+        "level": "easy",
+        "table": "1407.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1407,
+        "source": "nvBench"
+    },
+    {
+        "image": "1411.png",
+        "level": "easy",
+        "table": "1411.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1411,
+        "source": "nvBench"
+    },
+    {
+        "image": "1412.png",
+        "level": "easy",
+        "table": "1412.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1412,
+        "source": "nvBench"
+    },
+    {
+        "image": "1423.png",
+        "level": "easy",
+        "table": "1423.csv",
+        "tasks": [
+            "data retrieval",
+            "reasoning"
+        ],
+        "type": "bar",
+        "id": 1423,
+        "source": "nvBench"
+    },
+    {
+        "image": "1428.png",
+        "level": "easy",
+        "table": "1428.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1428,
+        "source": "nvBench"
+    },
+    {
+        "image": "1439.png",
+        "level": "easy",
+        "table": "1439.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1439,
+        "source": "nvBench"
+    },
+    {
+        "image": "1443.png",
+        "level": "easy",
+        "table": "1443.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1443,
+        "source": "nvBench"
+    },
+    {
+        "image": "1446.png",
+        "level": "easy",
+        "table": "1446.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "order",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1446,
+        "source": "nvBench"
+    },
+    {
+        "image": "1449.png",
+        "level": "easy",
+        "table": "1449.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "anomaly",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1449,
+        "source": "nvBench"
+    },
+    {
+        "image": "1459.png",
+        "level": "easy",
+        "table": "1459.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "extreme",
+            "determine range"
+        ],
+        "type": "bar",
+        "id": 1459,
+        "source": "nvBench"
+    },
+    {
+        "image": "1463.png",
+        "level": "easy",
+        "table": "1463.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1463,
+        "source": "nvBench"
+    },
+    {
+        "image": "1466.png",
+        "level": "easy",
+        "table": "1466.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1466,
+        "source": "nvBench"
+    },
+    {
+        "image": "1468.png",
+        "level": "easy",
+        "table": "1468.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1468,
+        "source": "nvBench"
+    },
+    {
+        "image": "1471.png",
+        "level": "easy",
+        "table": "1471.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1471,
+        "source": "nvBench"
+    },
+    {
+        "image": "1473.png",
+        "level": "easy",
+        "table": "1473.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1473,
+        "source": "nvBench"
+    },
+    {
+        "image": "1475.png",
+        "level": "easy",
+        "table": "1475.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1475,
+        "source": "nvBench"
+    },
+    {
+        "image": "1476.png",
+        "level": "easy",
+        "table": "1476.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1476,
+        "source": "nvBench"
+    },
+    {
+        "image": "1482.png",
+        "level": "easy",
+        "table": "1482.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1482,
+        "source": "nvBench"
+    },
+    {
+        "image": "1485.png",
+        "level": "easy",
+        "table": "1485.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1485,
+        "source": "nvBench"
+    },
+    {
+        "image": "1489.png",
+        "level": "easy",
+        "table": "1489.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1489,
+        "source": "nvBench"
+    },
+    {
+        "image": "1490.png",
+        "level": "easy",
+        "table": "1490.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1490,
+        "source": "nvBench"
+    },
+    {
+        "image": "1491.png",
+        "level": "easy",
+        "table": "1491.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1491,
+        "source": "nvBench"
+    },
+    {
+        "image": "1495.png",
+        "level": "easy",
+        "table": "1495.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1495,
+        "source": "nvBench"
+    },
+    {
+        "image": "1497.png",
+        "level": "easy",
+        "table": "1497.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1497,
+        "source": "nvBench"
+    },
+    {
+        "image": "1498.png",
+        "level": "easy",
+        "table": "1498.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1498,
+        "source": "nvBench"
+    },
+    {
+        "image": "1501.png",
+        "level": "easy",
+        "table": "1501.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1501,
+        "source": "nvBench"
+    },
+    {
+        "image": "1502.png",
+        "level": "easy",
+        "table": "1502.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1502,
+        "source": "nvBench"
+    },
+    {
+        "image": "1503.png",
+        "level": "easy",
+        "table": "1503.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1503,
+        "source": "nvBench"
+    },
+    {
+        "image": "1513.png",
+        "level": "easy",
+        "table": "1513.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1513,
+        "source": "nvBench"
+    },
+    {
+        "image": "1517.png",
+        "level": "easy",
+        "table": "1517.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1517,
+        "source": "nvBench"
+    },
+    {
+        "image": "1529.png",
+        "level": "easy",
+        "table": "1529.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1529,
+        "source": "nvBench"
+    },
+    {
+        "image": "1532.png",
+        "level": "easy",
+        "table": "1532.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1532,
+        "source": "nvBench"
+    },
+    {
+        "image": "1535.png",
+        "level": "easy",
+        "table": "1535.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1535,
+        "source": "nvBench"
+    },
+    {
+        "image": "1542.png",
+        "level": "easy",
+        "table": "1542.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1542,
+        "source": "nvBench"
+    },
+    {
+        "image": "1544.png",
+        "level": "easy",
+        "table": "1544.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1544,
+        "source": "nvBench"
+    },
+    {
+        "image": "1546.png",
+        "level": "easy",
+        "table": "1546.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1546,
+        "source": "nvBench"
+    },
+    {
+        "image": "1548.png",
+        "level": "easy",
+        "table": "1548.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1548,
+        "source": "nvBench"
+    },
+    {
+        "image": "1554.png",
+        "level": "easy",
+        "table": "1554.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1554,
+        "source": "nvBench"
+    },
+    {
+        "image": "1556.png",
+        "level": "easy",
+        "table": "1556.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1556,
+        "source": "nvBench"
+    },
+    {
+        "image": "1560.png",
+        "level": "easy",
+        "table": "1560.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1560,
+        "source": "nvBench"
+    },
+    {
+        "image": "1561.png",
+        "level": "easy",
+        "table": "1561.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1561,
+        "source": "nvBench"
+    },
+    {
+        "image": "1563.png",
+        "level": "easy",
+        "table": "1563.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1563,
+        "source": "nvBench"
+    },
+    {
+        "image": "1564.png",
+        "level": "easy",
+        "table": "1564.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1564,
+        "source": "nvBench"
+    },
+    {
+        "image": "1565.png",
+        "level": "easy",
+        "table": "1565.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1565,
+        "source": "nvBench"
+    },
+    {
+        "image": "1568.png",
+        "level": "easy",
+        "table": "1568.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1568,
+        "source": "nvBench"
+    },
+    {
+        "image": "1573.png",
+        "level": "easy",
+        "table": "1573.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1573,
+        "source": "nvBench"
+    },
+    {
+        "image": "1578.png",
+        "level": "easy",
+        "table": "1578.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1578,
+        "source": "nvBench"
+    },
+    {
+        "image": "1583.png",
+        "level": "easy",
+        "table": "1583.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1583,
+        "source": "nvBench"
+    },
+    {
+        "image": "1585.png",
+        "level": "easy",
+        "table": "1585.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1585,
+        "source": "nvBench"
+    },
+    {
+        "image": "1586.png",
+        "level": "easy",
+        "table": "1586.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1586,
+        "source": "nvBench"
+    },
+    {
+        "image": "1588.png",
+        "level": "easy",
+        "table": "1588.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1588,
+        "source": "nvBench"
+    },
+    {
+        "image": "1589.png",
+        "level": "easy",
+        "table": "1589.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1589,
+        "source": "nvBench"
+    },
+    {
+        "image": "1590.png",
+        "level": "easy",
+        "table": "1590.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1590,
+        "source": "nvBench"
+    },
+    {
+        "image": "1592.png",
+        "level": "easy",
+        "table": "1592.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1592,
+        "source": "nvBench"
+    },
+    {
+        "image": "1593.png",
+        "level": "easy",
+        "table": "1593.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1593,
+        "source": "nvBench"
+    },
+    {
+        "image": "1594.png",
+        "level": "easy",
+        "table": "1594.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1594,
+        "source": "nvBench"
+    },
+    {
+        "image": "1597.png",
+        "level": "easy",
+        "table": "1597.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1597,
+        "source": "nvBench"
+    },
+    {
+        "image": "1598.png",
+        "level": "easy",
+        "table": "1598.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1598,
+        "source": "nvBench"
+    },
+    {
+        "image": "1601.png",
+        "level": "easy",
+        "table": "1601.csv",
+        "tasks": [
+            "extreme",
+            "cluster",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1601,
+        "source": "nvBench"
+    },
+    {
+        "image": "1603.png",
+        "level": "easy",
+        "table": "1603.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1603,
+        "source": "nvBench"
+    },
+    {
+        "image": "1605.png",
+        "level": "easy",
+        "table": "1605.csv",
+        "tasks": [
+            "extreme",
+            "reasoning",
+            "anomaly",
+            "correlation",
+            "distribution",
+            "determine range"
+        ],
+        "type": "scatterplot",
+        "id": 1605,
+        "source": "nvBench"
+    },
+    {
+        "image": "1606.png",
+        "level": "easy",
+        "table": "1606.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1606,
+        "source": "nvBench"
+    },
+    {
+        "image": "1621.png",
+        "level": "easy",
+        "table": "1621.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1621,
+        "source": "nvBench"
+    },
+    {
+        "image": "1622.png",
+        "level": "easy",
+        "table": "1622.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1622,
+        "source": "nvBench"
+    },
+    {
+        "image": "1625.png",
+        "level": "easy",
+        "table": "1625.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1625,
+        "source": "nvBench"
+    },
+    {
+        "image": "1627.png",
+        "level": "easy",
+        "table": "1627.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1627,
+        "source": "nvBench"
+    },
+    {
+        "image": "1632.png",
+        "level": "easy",
+        "table": "1632.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1632,
+        "source": "nvBench"
+    },
+    {
+        "image": "1637.png",
+        "level": "easy",
+        "table": "1637.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1637,
+        "source": "nvBench"
+    },
+    {
+        "image": "1643.png",
+        "level": "easy",
+        "table": "1643.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1643,
+        "source": "nvBench"
+    },
+    {
+        "image": "1656.png",
+        "level": "easy",
+        "table": "1656.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1656,
+        "source": "nvBench"
+    },
+    {
+        "image": "1661.png",
+        "level": "easy",
+        "table": "1661.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1661,
+        "source": "nvBench"
+    },
+    {
+        "image": "1670.png",
+        "level": "easy",
+        "table": "1670.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1670,
+        "source": "nvBench"
+    },
+    {
+        "image": "1677.png",
+        "level": "easy",
+        "table": "1677.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1677,
+        "source": "nvBench"
+    },
+    {
+        "image": "1685.png",
+        "level": "easy",
+        "table": "1685.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1685,
+        "source": "nvBench"
+    },
+    {
+        "image": "1687.png",
+        "level": "easy",
+        "table": "1687.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1687,
+        "source": "nvBench"
+    },
+    {
+        "image": "1692.png",
+        "level": "easy",
+        "table": "1692.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1692,
+        "source": "nvBench"
+    },
+    {
+        "image": "1696.png",
+        "level": "easy",
+        "table": "1696.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "line",
+        "id": 1696,
+        "source": "nvBench"
+    },
+    {
+        "image": "1702.png",
+        "level": "easy",
+        "table": "1702.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1702,
+        "source": "nvBench"
+    },
+    {
+        "image": "1710.png",
+        "level": "easy",
+        "table": "1710.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1710,
+        "source": "nvBench"
+    },
+    {
+        "image": "1711.png",
+        "level": "easy",
+        "table": "1711.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1711,
+        "source": "nvBench"
+    },
+    {
+        "image": "1712.png",
+        "level": "easy",
+        "table": "1712.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1712,
+        "source": "nvBench"
+    },
+    {
+        "image": "1715.png",
+        "level": "easy",
+        "table": "1715.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1715,
+        "source": "nvBench"
+    },
+    {
+        "image": "1716.png",
+        "level": "easy",
+        "table": "1716.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1716,
+        "source": "nvBench"
+    },
+    {
+        "image": "1717.png",
+        "level": "easy",
+        "table": "1717.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1717,
+        "source": "nvBench"
+    },
+    {
+        "image": "1724.png",
+        "level": "easy",
+        "table": "1724.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1724,
+        "source": "nvBench"
+    },
+    {
+        "image": "1741.png",
+        "level": "easy",
+        "table": "1741.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1741,
+        "source": "nvBench"
+    },
+    {
+        "image": "1742.png",
+        "level": "easy",
+        "table": "1742.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1742,
+        "source": "nvBench"
+    },
+    {
+        "image": "1748.png",
+        "level": "easy",
+        "table": "1748.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1748,
+        "source": "nvBench"
+    },
+    {
+        "image": "1749.png",
+        "level": "easy",
+        "table": "1749.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1749,
+        "source": "nvBench"
+    },
+    {
+        "image": "1751.png",
+        "level": "easy",
+        "table": "1751.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1751,
+        "source": "nvBench"
+    },
+    {
+        "image": "1754.png",
+        "level": "easy",
+        "table": "1754.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1754,
+        "source": "nvBench"
+    },
+    {
+        "image": "1758.png",
+        "level": "easy",
+        "table": "1758.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1758,
+        "source": "nvBench"
+    },
+    {
+        "image": "1759.png",
+        "level": "easy",
+        "table": "1759.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1759,
+        "source": "nvBench"
+    },
+    {
+        "image": "1770.png",
+        "level": "easy",
+        "table": "1770.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1770,
+        "source": "nvBench"
+    },
+    {
+        "image": "1777.png",
+        "level": "easy",
+        "table": "1777.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1777,
+        "source": "nvBench"
+    },
+    {
+        "image": "1781.png",
+        "level": "easy",
+        "table": "1781.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1781,
+        "source": "nvBench"
+    },
+    {
+        "image": "1784.png",
+        "level": "easy",
+        "table": "1784.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1784,
+        "source": "nvBench"
+    },
+    {
+        "image": "1787.png",
+        "level": "easy",
+        "table": "1787.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1787,
+        "source": "nvBench"
+    },
+    {
+        "image": "1793.png",
+        "level": "easy",
+        "table": "1793.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1793,
+        "source": "nvBench"
+    },
+    {
+        "image": "1794.png",
+        "level": "easy",
+        "table": "1794.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1794,
+        "source": "nvBench"
+    },
+    {
+        "image": "1813.png",
+        "level": "easy",
+        "table": "1813.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1813,
+        "source": "nvBench"
+    },
+    {
+        "image": "1817.png",
+        "level": "easy",
+        "table": "1817.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1817,
+        "source": "nvBench"
+    },
+    {
+        "image": "1818.png",
+        "level": "easy",
+        "table": "1818.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1818,
+        "source": "nvBench"
+    },
+    {
+        "image": "1842.png",
+        "level": "easy",
+        "table": "1842.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1842,
+        "source": "nvBench"
+    },
+    {
+        "image": "1846.png",
+        "level": "easy",
+        "table": "1846.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1846,
+        "source": "nvBench"
+    },
+    {
+        "image": "1849.png",
+        "level": "easy",
+        "table": "1849.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1849,
+        "source": "nvBench"
+    },
+    {
+        "image": "1854.png",
+        "level": "easy",
+        "table": "1854.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1854,
+        "source": "nvBench"
+    },
+    {
+        "image": "1855.png",
+        "level": "easy",
+        "table": "1855.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1855,
+        "source": "nvBench"
+    },
+    {
+        "image": "1862.png",
+        "level": "easy",
+        "table": "1862.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1862,
+        "source": "nvBench"
+    },
+    {
+        "image": "1864.png",
+        "level": "easy",
+        "table": "1864.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1864,
+        "source": "nvBench"
+    },
+    {
+        "image": "1878.png",
+        "level": "easy",
+        "table": "1878.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1878,
+        "source": "nvBench"
+    },
+    {
+        "image": "1884.png",
+        "level": "easy",
+        "table": "1884.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1884,
+        "source": "nvBench"
+    },
+    {
+        "image": "1885.png",
+        "level": "easy",
+        "table": "1885.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1885,
+        "source": "nvBench"
+    },
+    {
+        "image": "1886.png",
+        "level": "easy",
+        "table": "1886.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1886,
+        "source": "nvBench"
+    },
+    {
+        "image": "1887.png",
+        "level": "easy",
+        "table": "1887.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1887,
+        "source": "nvBench"
+    },
+    {
+        "image": "1896.png",
+        "level": "easy",
+        "table": "1896.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "order",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1896,
+        "source": "nvBench"
+    },
+    {
+        "image": "1902.png",
+        "level": "complex",
+        "table": "1902.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 1902
+    },
+    {
+        "image": "1905.png",
+        "level": "complex",
+        "table": "1905.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 1905
+    },
+    {
+        "image": "1907.png",
+        "level": "complex",
+        "table": "1907.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 1907
+    },
+    {
+        "image": "1911.png",
+        "level": "complex",
+        "table": "1911.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 1911
+    },
+    {
+        "image": "1933.png",
+        "level": "complex",
+        "table": "1933.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "grouped bar",
+        "id": 1933
+    },
+    {
+        "image": "1938.png",
+        "level": "complex",
+        "table": "1938.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 1938
+    },
+    {
+        "image": "1941.png",
+        "level": "complex",
+        "table": "1941.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 1941
+    },
+    {
+        "image": "1942.png",
+        "level": "complex",
+        "table": "1942.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 1942
+    },
+    {
+        "image": "1943.png",
+        "level": "complex",
+        "table": "1943.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 1943
+    },
+    {
+        "image": "1945.png",
+        "level": "complex",
+        "table": "1945.csv",
+        "tasks": [
+            "reasoning",
+            "determine range",
+            "correlation"
+        ],
+        "type": "grouped line",
+        "id": 1945
+    },
+    {
+        "image": "1950.png",
+        "level": "easy",
+        "table": "1950.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1950
+    },
+    {
+        "image": "1951.png",
+        "level": "easy",
+        "table": "1951.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1951
+    },
+    {
+        "image": "1954.png",
+        "level": "easy",
+        "table": "1954.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1954
+    },
+    {
+        "image": "1955.png",
+        "level": "easy",
+        "table": "1955.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1955
+    },
+    {
+        "image": "1959.png",
+        "level": "easy",
+        "table": "1959.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "reasoning",
+            "determine range"
+        ],
+        "type": "pie",
+        "id": 1959
+    },
+    {
+        "image": "1977.png",
+        "level": "complex",
+        "table": "1977.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 1977
+    },
+    {
+        "image": "1978.png",
+        "level": "complex",
+        "table": "1978.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 1978
+    },
+    {
+        "image": "1979.png",
+        "level": "complex",
+        "table": "1979.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 1979
+    },
+    {
+        "image": "1986.png",
+        "level": "complex",
+        "table": "1986.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 1986
+    },
+    {
+        "image": "1997.png",
+        "level": "complex",
+        "table": "1997.csv",
+        "tasks": [
+            "data retrieval",
+            "filter",
+            "determine range",
+            "cluster",
+            "reasoning",
+            "extreme"
+        ],
+        "type": "stacked bar",
+        "id": 1997
+    }
+]
