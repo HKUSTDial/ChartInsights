@@ -21,6 +21,8 @@
 - ⭐[Leaderboard](README.md)
     - [Results of advanced MLLMs](README.md)
 
+## News
+🎊Our Paper has been accepted by EMNLP2024!!
 
 ## About ChartInsights
 ### ChartInsights Overall & Evaluation Design
