@@ -91,7 +91,7 @@ it easier to use the size of a shape to imply the sequential relationship of ele
 
 ### Dataset Examples
 
-<img src="./png/example.png" width="800px" center>
+<img src="./png/example.jpg" width="800px" center>
 <div align=center>
     <p>Figure 5: Examples for ChartInsights</p>
 
