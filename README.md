@@ -1,5 +1,5 @@
 # ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering
-- 🥳[About ChartsInsights](README.md)
+- 🥳[About ChartsInsights](#about-chartsinsights)
     - [ChartInsights Overall & Evaluation Design](README.md)
     - [Dataset Overview](README.md)
 - 🎮[Dataset Construction](README.md)
