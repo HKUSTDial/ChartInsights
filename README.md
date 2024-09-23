@@ -219,7 +219,7 @@ for _, each_annotation in enumerate(test_annotations[annotation_id:]):
     print(f"{annotation_id}costs time{each_annotation_time}s")
 ```
 
-###  Optimization of Textual Prompt
+### Textual Prompt
 You can find the `textual_evaluation.py` code in [Scripts](https://github.com/ChartInsight/chartinsight/tree/main/Scripts). Before running the code, you can get `textural_test_qa_pairs` and `charts` in [Dataset/Textual Prompts](https://github.com/ChartInsight/chartinsight/tree/main/Dataset/Textual%20Prompt/Charts). and `tables` in [Dataset/Textual Prompts](https://github.com/ChartInsight/chartinsight/tree/main/Dataset/Textual%20Prompt/Tables). After you get all the files and charts, please list them in the following format:
 
 ```
@@ -235,7 +235,7 @@ You can find the `textual_evaluation.py` code in [Scripts](https://github.com/Ch
     └── ...
 ```
 
-### Visual Prompts
+### Visual Prompt
 You can find the `visual_prompt_evaluation.py` code in [Scripts](https://github.com/ChartInsight/chartinsight/tree/main/Scripts). Before running the code, you can get `visual_prompt_test_qa_pairs` and and `charts` in [Dataset/Visual Prompt](https://github.com/ChartInsight/chartinsight/tree/main/Dataset/Visual%20Prompt/Charts). After you get all the files and charts, please list them in the following format:
 ```
 ├── visual_prompt_test_qa_pairs.json
@@ -246,7 +246,7 @@ You can find the `visual_prompt_evaluation.py` code in [Scripts](https://github.
     └── ...
 ```
 
-### Vary the Chart Element
+### Vary the Chart Elements
 You can find the `varying_chart_element_evaluation.py` code in [Scripts](https://github.com/ChartInsight/chartinsight/tree/main/Scripts). Before running the code, you can get `varying_chart_element_test_qa_pairs.json` and `varying_chart_element_test_annotations.json` and `charts` in [Dataset/Vary Chart Element](https://github.com/ChartInsight/chartinsight/tree/main/Dataset/Vary%20Chart%20Element/Charts). After you get all the files and charts, please list them in the following format:
 
 ```
@@ -258,7 +258,7 @@ You can find the `varying_chart_element_evaluation.py` code in [Scripts](https:/
     ├── 2.jpg
     └── ...
 ```
-### Vary the Image Quality
+### Vary the Chart Quality
 You can find the `varying_chart_quality_evaluation.py` code in [Scripts](https://github.com/ChartInsight/chartinsight/tree/main/Scripts). Before running the code, you can get `varying_chart_qualityt_test_qa_pairs.json` and `varying_chart_quality_test_annotations.json` and `charts` in [Dataset/Vary Chart Element](https://github.com/ChartInsight/chartinsight/tree/main/Dataset/Vary%20Chart%20Element/Charts). After you get all the files and charts, please list them in the following format:
 
 ```
@@ -330,7 +330,7 @@ After you finish the Visual Prompt experiments, you will get the results listed.
 ├── Visual_Prompt_Evaluation.py
 ```
 Follow the three steps in `Overall Evaluation` and you will get 6 CSV files.
-### Vary Chart Element Results Analysis 
+### Chart Element Results Analysis 
 After you finish the Chart Element experiments, you will get the results listed. And if you want to analyze those results, you can find relevant Python files in [Evalution](https://github.com/ChartInsight/chartinsight/tree/main/Evaluation) and order them in the following format:
 ```
 ├── results
@@ -342,7 +342,7 @@ After you finish the Chart Element experiments, you will get the results listed.
 ├── Chart_Element_Evaluation.py
 ```
 Follow the three steps in `Overall Evaluation` and you will get 6 CSV files.
-### Vary Chart Quality Evaluation
+### Chart Quality Results Analysis 
 After you finish the Chart Quality experiments, you will get the results listed. And if you want to analyze those results, you can find relevant Python files in [Evalution](https://github.com/ChartInsight/chartinsight/tree/main/Evaluation) and order them in the following format:
 ```
 ├── results
