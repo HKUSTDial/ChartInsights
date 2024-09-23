@@ -27,7 +27,7 @@
 ## About ChartInsights
 ### ChartInsights Overall & Evaluation Design
 <div align=center>
-<img src="./png/chartinsights_pipeline.jpg" width="700px" center>
+<img src="./png/chartinsights_pipeline.jpg" width="800px" center>
     <p>Figure 1:  The Pipeline for Evaluating MLLMs with ChartInsights</p>
 </div>
 In this paper, we aim to systematically investigate the capabilities of GPT-4o in addressing 10 low-level data analysis tasks. Our study seeks to answer the following critical questions, shedding light on the potential of MLLMs in performing detailed, granular analyses.
