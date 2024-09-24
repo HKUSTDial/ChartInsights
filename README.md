@@ -7,7 +7,7 @@
     - [Dataset Examples](#dataset-examples)
 - 🧪[Evaluation Scripts on ChartInsights](#evaluation-scripts-on-chartinsights)
     - [Environment Setup](#environment-setup)
-    - [A Quick Start for Overall Evaluations with ChartInsights](#a-quick-start-about-overall-evaluations-on-mllms-with-chartinsights)      
+    - [A Quick Start for Overall Evaluations on MLLMs with ChartInsights](#a-quick-start-about-overall-evaluations-on-mllms-with-chartinsights)      
     - [Textual Prompt](#textual-prompt)
     - [Visual Prompt](#visual-prompt)
     - [Vary the Chart Elements](#vary-the-chart-elements)
