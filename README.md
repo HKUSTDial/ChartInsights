@@ -21,9 +21,11 @@
 - ⭐[Leaderboard](#leaderboard)
     - [Results of advanced MLLMs](#results-of-advanced-mllms)
 
-## News
-🎊Our Paper has been accepted by **EMNLP2024**!!
-
+## Updates
+- [Ongoing] We are now developing a python API for friendly usage.
+- [2024/10/11] We put all the charts on [Google Cloud](https://drive.google.com/drive/folders/1Yvn0v1txqWTe2R9nPaP7PTZPMiztJp0u?usp=sharing) in case there is something wrong opening the files on github.
+- [2024/09/20]🎊Our Paper has been accepted by **EMNLP2024**!!
+- [2024/09/22] We have released all the test charts and codes!
 ## About ChartInsights
 ### ChartInsights Overall & Evaluation Design
 <div align=center>
